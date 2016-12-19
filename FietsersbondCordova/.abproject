@@ -1,0 +1,45 @@
+{
+  "ProjectName": "FietsersbondCordova",
+  "ProjectGuid": "e6a41f25-f7c1-4766-bb4e-5237c6438930",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FietsersbondCordova",
+  "DisplayName": "FietsersbondCordova",
+  "Author": "",
+  "Description": "FietsersbondCordova",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a2d7fdb9-3590-43bf-aead-c867cd941d2c}",
+  "WP8ProductID": "{1357e919-42fe-4dd1-8674-a244f1b8d93b}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.FietsersbondCordova",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
